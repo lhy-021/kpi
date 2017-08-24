@@ -1,0 +1,125 @@
+2017-08-21 14:31:46|   0.1|  0.1|INFORM|FME 2017.1.0.0 (20170731 - Build 17539 - WIN64)
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|FME Desktop Oracle Edition (floating)
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|Permanent License.
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|Machine host name is: CEN0353040
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|START - ProcessID: 4388, peak process memory usage: 33976 kB, current process memory usage: 33976 kB
+2017-08-21 14:31:46|   0.1|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `W:/GIS projects/KPI Report V3 - Andrew Willims\wb-xlate-1503340303981_7764' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{d59ca232-5b8b-430e-a9d6-c2e554f2b79c}'
+2017-08-21 14:31:46|   0.2|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;\\itcfs007\HOME\My Documents\FME\Formats
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME\transformers;\\itcfs007\HOME\My Documents\FME\Transformers;C:\Users\jjiang\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for coordinate systems are : \\itcfs007\HOME\My Documents\FME\CoordinateSystems
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\itcfs007\HOME\My Documents\FME\CoordinateSystemExceptions
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\itcfs007\HOME\My Documents\FME\CoordinateSystemGridOverrides
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\itcfs007\HOME\My Documents\FME\CsmapTransformationExceptions
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Shared folders for transformer categories are : \\itcfs007\HOME\My Documents\FME\TransformerCategories
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Reader Keyword is `FILEGDB_1'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Reader type is `FILEGDB'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Current working folder is `W:\GIS projects\KPI Report V3 - Andrew Willims'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\jjiang\AppData\Local\Temp', set from environment variable `TEMP'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'W:\GIS projects\KPI Report V3 - Andrew Willims/'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'mpo-intersection-postprocess.fmw'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2017.1.0.0'
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|System Status: 14.48 GB of disk space available in the FME temporary folder (C:\Users\jjiang\AppData\Local\Temp)
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Platform: WIN64
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Locale: en_US
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Process limit is 15.88 GB of physical memory
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 47.63 GB of virtual memory
+2017-08-21 14:31:46|   0.2|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 35.73 GB of virtual memory
+2017-08-21 14:31:47|   0.2|  0.0|INFORM|Creating writer for format: 
+2017-08-21 14:31:47|   0.7|  0.5|INFORM|Creating reader for format: Esri Geodatabase (File Geodb Open API)
+2017-08-21 14:31:47|   0.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `FILEGDB'
+2017-08-21 14:31:47|   0.7|  0.0|INFORM|Loaded module 'FILEGDB' from file 'C:\Program Files\FME\plugins/FILEGDB.dll'
+2017-08-21 14:31:47|   0.8|  0.0|INFORM|FME API version of module 'FILEGDB' matches current internal version (3.8 20170315)
+2017-08-21 14:31:47|   0.8|  0.0|INFORM|FILEGDB reader: Building feature table
+2017-08-21 14:31:47|   0.8|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-08-21 14:31:47|   0.8|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20170315)
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'C:\Program Files\FME\plugins/VertexCreatorFactory.dll'
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20170315)
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20170315)
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|Loaded module 'SpatialRelationshipFactory' from file 'C:\Program Files\FME\plugins/SpatialRelationshipFactory.dll'
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|FME API version of module 'SpatialRelationshipFactory' matches current internal version (3.8 20170315)
+2017-08-21 14:31:48|   0.8|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20170315)
+2017-08-21 14:31:51|   3.5|  2.7|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (3.8 20170315)
+2017-08-21 14:31:51|   3.5|  0.0|INFORM|VertexCreator(VertexCreatorFactory): Splitting feature table
+2017-08-21 14:31:51|   3.6|  0.0|STATS |Storing feature(s) to FME feature store file `W:\GIS projects\KPI Report V3 - Andrew Willims\mpo-intersection-postprocess_log.ffs'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Feature Type: `lrs_mpo_2009_FILEGDB_1'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(64 bit real)            : `AREA_ID' has value `1736'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(64 bit real)            : `AREA_SQMI' has value `1736.17004395'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(64 bit real)            : `CTL_BEGIN_NBR' has value `0'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(64 bit real)            : `CTL_END_NBR' has value `2'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(encoded: utf-16)        : `MPO_CD' has value `OKI'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(encoded: utf-16)        : `MPO_NAME' has value `Cincinnati'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(encoded: utf-16)        : `NLF_ID' has value `CBUTCR00002**C'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(32 bit unsigned integer): `OBJECTID' has value `1'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(16 bit integer)         : `PERP_YEAR_NBR' has value `2009'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(string)                 : `created_date' has value `20160909164957'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(encoded: utf-16)        : `created_user' has value `tims@DOTSQLPRD14'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(string)                 : `filegdb_type' has value `geodb_no_geom'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(string)                 : `fme_feature_type' has value `lrs_mpo_2009'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(string)                 : `fme_geometry' has value `fme_undefined'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(entangled: string)      : `fme_type' has value `fme_no_geom'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |          entangled to [filegdb_type]
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(string)                 : `last_edited_date' has value `20160909164957'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Attribute(encoded: utf-16)        : `last_edited_user' has value `tims@DOTSQLPRD14'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Coordinate System: `'
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |Geometry Type: IFMENull
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |===========================================================================
+2017-08-21 14:31:51|   3.6|  0.0|WARN  |VertexCreator(VertexCreatorFactory): No X coordinate specified
+2017-08-21 14:31:51|   3.6|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-08-21 14:31:51|   3.6|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-08-21 14:31:51|   3.7|  0.1|FATAL |The below feature caused the translation to be terminated
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Feature Type: `FEATURE_TYPE'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(64 bit real)            : `AREA_ID' has value `1736'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(64 bit real)            : `AREA_SQMI' has value `1736.17004395'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(64 bit real)            : `CTL_BEGIN_NBR' has value `0'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(64 bit real)            : `CTL_END_NBR' has value `2'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(encoded: utf-16)        : `MPO_CD' has value `OKI'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(encoded: utf-16)        : `MPO_NAME' has value `Cincinnati'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(encoded: utf-16)        : `NLF_ID' has value `CBUTCR00002**C'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(32 bit unsigned integer): `OBJECTID' has value `1'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(16 bit integer)         : `PERP_YEAR_NBR' has value `2009'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `created_date' has value `20160909164957'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(encoded: utf-16)        : `created_user' has value `tims@DOTSQLPRD14'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `filegdb_type' has value `geodb_no_geom'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `fme_feature_type' has value `lrs_mpo_2009'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `fme_geometry' has value `fme_undefined'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `fme_rejection_code' has value `INVALID_PARAMETER_X_VALUE'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(entangled: string)      : `fme_type' has value `fme_no_geom'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|          entangled to [filegdb_type]
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(string)                 : `last_edited_date' has value `20160909164957'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Attribute(encoded: utf-16)        : `last_edited_user' has value `tims@DOTSQLPRD14'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Coordinate System: `'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Geometry Type: IFMENull
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|===========================================================================
+2017-08-21 14:31:51|   3.7|  0.0|ERROR |VertexCreator_<Rejected>(TeeFactory): VertexCreator_<Rejected>: Termination Message: 'VertexCreator output a <Rejected> feature.  To continue translation when features are rejected, change 'Workspace Parameters' > Translation > 'Rejected Feature Handling' to 'Continue Translation''
+2017-08-21 14:31:51|   3.7|  0.0|ERROR |VertexCreator_<Rejected>: Termination Message: 'VertexCreator output a <Rejected> feature.  To continue translation when features are rejected, change 'Workspace Parameters' > Translation > 'Rejected Feature Handling' to 'Continue Translation''
+2017-08-21 14:31:51|   3.7|  0.0|ERROR |
+2017-08-21 14:31:51|   3.7|  0.0|STATS |Stored 1 feature(s) to FME feature store file `C:\Users\jjiang\AppData\Local\Temp\no-conn-ffs-1503340303981_7764.ffs'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Saving spatial index into file 'C:\Users\jjiang\AppData\Local\Temp\no-conn-ffs-1503340303981_7764.fsi'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\jjiang\AppData\Local\Temp\no-conn-ffs-1503340303981_7764.fsi'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-08-21 14:31:51|   3.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-08-21 14:31:51|   3.7|  0.0|STATS |                               Features Written
+2017-08-21 14:31:51|   3.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-08-21 14:31:51|   3.7|  0.0|STATS |VertexCreator_<REJECTED>                                                     1
+2017-08-21 14:31:51|   3.7|  0.0|STATS |==============================================================================
+2017-08-21 14:31:51|   3.7|  0.0|STATS |Total Features Written                                                       1
+2017-08-21 14:31:51|   3.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-08-21 14:31:51|   3.7|  0.0|ERROR |A fatal error has occurred. Check the logfile above for details
+2017-08-21 14:31:51|   3.7|  0.0|STATS |Stored 2 feature(s) to FME feature store file `W:\GIS projects\KPI Report V3 - Andrew Willims\mpo-intersection-postprocess_log.ffs'
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|FME Session Duration: 4.8 seconds. (CPU: 2.8s user, 0.8s system)
+2017-08-21 14:31:51|   3.7|  0.0|INFORM|END - ProcessID: 4388, peak process memory usage: 527804 kB, current process memory usage: 509168 kB
